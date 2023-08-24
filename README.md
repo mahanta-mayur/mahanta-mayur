@@ -17,7 +17,7 @@
 
  🔭 Graduating in December 2023, I am open to Full-Time roles in the US in **Software Development** (Front-end/Data Platform/Game Platform) and in Data Science (Engineering/Analytics)
  
- 💼 I just finished my Spring Co-op as a Data Software Engineer at [@Abiomed, US](https://www.abiomed.com/), working as a Front-end Developer, Data Engineer & Automation Tester for a Virtual Assistant (ABI) and Medical Insights Application (AXM). Prior to my studies at Norteastern, I worked as a Full Stack Software Developer at Ericsson, India where I was mainly involved in the development of an Employee-Management Application
+ 💼 I just finished my Spring Co-op as a Data Software Engineer at [@Abiomed, US](https://www.abiomed.com/) 🇺🇸, working as a Front-end Developer, Data Engineer & Automation Tester for a Virtual Assistant (ABI) and Medical Insights Application (AXM). Prior to my studies at Norteastern, I worked as a Full Stack Software Developer at [@Ericsson, India](https://www.ericsson.com/en) 🇮🇳, where I was mainly involved in the development of an Employee-Management Application
 
  🔦 Check out my Portfolio [here](https://mayurmahantaportfoliowebpage.netlify.app/)**
  
@@ -61,27 +61,19 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mahanta-mayur/mahanta-mayur/output/github-contribution-grid-snake.svg" />
+<picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahanta-mayur/mahanta-mayur/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahanta-mayur/mahanta-mayur/output/github-contribution-grid-snake.svg" />
+      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mahanta-mayur/mahanta-mayur/output/github-contribution-grid-snake.svg" />
+</picture>
+
   
   <br/><br/><br/>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-<hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=28&pause=1000&color=7E5BF7&width=500&lines=Thanks+for+Visiting!;Send+me+a+message+on+LinkedIn;I+am+open+to+collaborations+:)" alt="Typing SVG" />
 </h3>
 
 <br/>
