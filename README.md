@@ -36,26 +36,15 @@
  ⚡ Hobbies - Gaming 🎮, Creating and Playing with 3D Visuals 🌎, Playing the Guitar 🎸, Swimming 🏊🏻
  
  </div>
-<br>
- <h2 align="Left">
-    Ask or find out more about me! :) ⬇️!
-</h2>
+
 
 <div align="Left"> 
   <a href="mailto:mayur.mahantaprof@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/maymah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-    <br>
   <a href="https://mayurmahantaportfoliowebpage.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://www.instagram.com/mayur_mahanta_/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
 </div>
 
  <hr/>
@@ -91,3 +80,14 @@
 </div>
 
 <br/>
+
+<br>
+ <h2 align="Left">
+    Ask or find out more about me! :) ⬇️!
+</h2>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/maymah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-mahanta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mayur_mahanta_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur-mahanta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+</p>
