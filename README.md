@@ -1,8 +1,18 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=mahanta-mayur&repo=mahanta-mayur-visitors-badge&countColor=%23FF5733)
+<div align="center">
+    <img src="https://s11.gifyu.com/images/SgqsB.gif" alt="Mayur Coding" width="800" />
+</div>
+<br></br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mahanta-mayur&color=blueviolet&style=plastic&label=PROFILE+VISITS" alt="Profile Views">
+</p>
+<br>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+Welcome+to+my+GitHub+Profile" />
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Zeyada&size=38&center=true&vCenter=true&duration=1400&pause=1000&color=9651CD&background=FFFFFF00&width=435&lines=Hi!;Hola!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  </a>
+</p>
+
 <h2 align="center">
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px"> I'm Mayur Mahanta!
 </h2>
@@ -11,7 +21,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🎒 I’m currently finishing my **Masters** in Data Analytics Engineering at Northeastern University, Boston
 
@@ -26,14 +36,19 @@
  ⚡ Hobbies - Gaming 🎮, Creating and Playing with 3D Visuals 🌎, Playing the Guitar 🎸, Swimming 🏊🏻
  
  </div>
- 
-<div align="center"> 
-  <a href="mailto:mahanta.m@northeastern.edu">
+<br>
+ <h2 align="Left">
+    Ask or find out more about me! :) ⬇️!
+</h2>
+
+<div align="Left"> 
+  <a href="mailto:mayur.mahantaprof@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/maymah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <br>
   <a href="https://mayurmahantaportfoliowebpage.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
@@ -45,12 +60,16 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">💻 | Skills | Technology | Tools | 💻</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,c,java,react,r" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode,figma,git,vite,vue,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,cpp,discord,docker,gitlab,hibernate,linux,netlify,postman,threejs,unity" />
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=c,java,react,r" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,git,vite,vue,postgres,angular" /><br>
+    <img src="https://skillicons.dev/icons?i=gitlab,hibernate,linux,netlify,postman,threejs,unity" />
       <!-- Custom Skill Badges -->
   
 </div>
@@ -58,8 +77,8 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div align="left">
+  <h2>Contributions</h2>
   <br>
 <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahanta-mayur/mahanta-mayur/output/github-contribution-grid-snake-dark.svg" />
@@ -70,10 +89,5 @@
   
   <br/><br/><br/>
 </div>
-
-
-<h3 align="center">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=28&pause=1000&color=7E5BF7&width=500&lines=Thanks+for+Visiting!;Send+me+a+message+on+LinkedIn;I+am+open+to+collaborations+:)" alt="Typing SVG" />
-</h3>
 
 <br/>
