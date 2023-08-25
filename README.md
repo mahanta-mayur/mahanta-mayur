@@ -78,7 +78,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center">
-    <br><br><br>
+    <br><br><br><br><br>
 <a href="https://www.linkedin.com/in/maymah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-mahanta" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mayur_mahanta_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur-mahanta" height="30" width="40" /></a>
 </p>
