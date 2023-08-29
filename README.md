@@ -17,13 +17,13 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px"> I'm Mayur Mahanta!
 </h2>
 
-<h3 align="center">A Full Stack Software Engineer and Data Engineer from United States 🇺🇸</h3>
+<h3 align="center">A Full Stack Software Engineer & Data Engineer from United States 🇺🇸</h3>
 
 <br/>
 
 <div align="left">
  
- 🎒 I’m currently finishing my **Masters** in Data Analytics Engineering at Northeastern University, Boston
+ 🎒 I’m currently finishing my **Masters** in Data Analytics Engineering at Northeastern University, Boston 🇺🇸
 
  🔭 Graduating in December 2023, I am open to Full-Time roles in the US in **Software Development** (Front-end/Data Platform/Game Platform) and in Data Science (Engineering/Analytics)
  
