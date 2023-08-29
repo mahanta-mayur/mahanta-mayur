@@ -31,7 +31,7 @@
 
  🔦 Check out my Portfolio [here](https://mayurmahantaportfoliowebpage.netlify.app/)**
  
- 🌱 I’m currently learning **React Native, Express, Unity, Tailwind, ThreeJS **
+ 🌱 I’m currently learning **React Native, Express, AWS Cloud Services, Unity, Tailwind, ThreeJS **
 
  ⚡ Hobbies - Gaming 🎮, Creating and Playing with 3D Visuals 🌎, Playing the Guitar 🎸, Swimming 🏊🏻
  
