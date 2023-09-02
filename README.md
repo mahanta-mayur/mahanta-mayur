@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px"> I'm Mayur Mahanta!
 </h2>
 
-<h3 align="center">A Full Stack Software Engineer & Data Engineer from United States 🇺🇸</h3>
+<h3 align="center">Full Stack Software Engineer & Data Engineer from United States 🇺🇸</h3>
 
 <br/>
 
