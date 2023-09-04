@@ -75,7 +75,7 @@
     Go Ahead & Ask or find out more about me! :) ⬇️!
 </h2>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center">
     <br><br><br><br><br>
