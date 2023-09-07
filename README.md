@@ -41,9 +41,9 @@
 <h2 align="left">💻 | Skills | Technology | Tools | 💻</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript" /><br>
     <img src="https://skillicons.dev/icons?i=github,python" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=c,java,react,r" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=figma,git,vite,vue,postgres,angular" /><br>
