@@ -25,7 +25,7 @@
  
  🎒 I’m currently finishing my **Masters** in Data Analytics Engineering at Northeastern University, Boston 🇺🇸
 
- 🔭 Graduating in December 2023, I am open to Full-Time roles in the US in **Software Development** (Front-end/Data Platform/Game Platform) and in Data Science (Engineering/Analytics)
+ 🔭 Graduating in December 2023, I am open to Full Time roles in the US in **Software Development** (Front-end/Data Platform/Game Platform) and in Data Science (Engineering/Analytics)
  
  💼 I just finished my Spring Co-op as a Data Software Engineer at [@Abiomed, US](https://www.abiomed.com/) 🇺🇸, working as a Front-end Developer, Data Engineer & Automation Tester for a Virtual Voice-based Assistant (ABI) and Medical Insights Application (AXM). Prior to my studies at Norteastern, I worked as a Full Stack Software Developer at [@Ericsson, India](https://www.ericsson.com/en) 🇮🇳, where I was mainly involved in the development of an Employee-Management Application
 
