@@ -41,13 +41,13 @@
 <h2 align="left">💻 | Skills | Technology | Tools | 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=aws" /><br>
     <img src="https://skillicons.dev/icons?i=github,python" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=c,java,react,r" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,git,vite,vue,postgres,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=gitlab,hibernate,linux,netlify,postman,threejs,unity" />
+    <img src="https://skillicons.dev/icons?i=c,java,react,r,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode,vue" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,git,vite,postgres,angular,pytorch,powershell" /><br>
+    <img src="https://skillicons.dev/icons?i=gitlab,hibernate,linux,netlify,postman,threejs,unity,terraform" />
       <!-- Custom Skill Badges -->
   
 </div>
