@@ -40,7 +40,7 @@
  
 <h2 align="left">💻 | Skills | Technology | Tools | 💻</h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,aws" /><br>
     <img src="https://skillicons.dev/icons?i=github,python" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br>
