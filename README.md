@@ -27,11 +27,11 @@
 
  🔭 Graduating in December 2023, I am open to Full Time roles in the US in **Software Development** (Front-end/Data Platform/Game Platform) and in Data Science (Engineering/Analytics)
  
- 💼 I just finished my Spring Co-op as a Data Software Engineer at [@Abiomed, US](https://www.abiomed.com/) 🇺🇸, working as a Front-end Developer, Data Engineer & Automation Tester for a Virtual Voice-based Assistant (ABI) and Medical Insights Application (AXM). Prior to my studies at Norteastern, I worked as a Full Stack Software Developer at [@Ericsson, India](https://www.ericsson.com/en) 🇮🇳, where I was mainly involved in the development of an Low Code Program Application targetting the Beginner coders customer base helping them turn their ideas into reality with minimal infrastructure with the help of our curated boilerplate suggestions available in multiple environments
+ 💼 I finished my Spring Co-op as a Data Engineer at [@Abiomed, US](https://www.abiomed.com/) 🇺🇸, working primaryly with Data Warehouses and creating ETL pipelines along with Front-end development & Automation Testing for a Virtual Voice-based Assistant (ABI) and Medical Insights Application (AXM). Prior to my studies at Norteastern, I worked as a Full Stack Software Developer and Data Engineer at [@Ericsson, India](https://www.ericsson.com/en) 🇮🇳, where I was mainly involved in the development of an Low Code Program Application targetting the Beginner coders customer base helping them turn their ideas into reality with minimal infrastructure with the help of our curated boilerplate suggestions available in multiple environments
 
  🔦 Check out my Portfolio [here](https://mayurmahantaportfoliowebpage.netlify.app/)**
  
- 🌱 I’m currently learning **React Native, Express, AWS Cloud Services, Unity, Tailwind, ThreeJS, Azure **
+ 🌱 I’m currently learning **Talend, PySpark, AWS Cloud Services, Airflow, a bit of ThreeJS & Cloud Analytics**
 
  ⚡ Hobbies - Gaming 🎮, Creating and Playing with 3D Visuals 🌎, Playing the Guitar 🎸, Swimming 🏊🏻
  
