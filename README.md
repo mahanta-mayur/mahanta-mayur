@@ -31,7 +31,7 @@
 
  🔦 Check out my Portfolio [here](https://mayurmahantaportfoliowebpage.netlify.app/)**
  
- 🌱 I’m currently learning **Talend, PySpark, AWS Cloud Services, Airflow, a bit of ThreeJS & Cloud Analytics**
+ 🌱 I’m currently learning/working on **Talend, PySpark, AWS Cloud Services, Airflow, Cloud Analytics and a bit of ThreeJS for a passion project**
 
  ⚡ Hobbies - Gaming 🎮, Creating and Playing with 3D Visuals 🌎, Playing the Guitar 🎸, Swimming 🏊🏻
  
