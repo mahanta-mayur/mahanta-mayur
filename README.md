@@ -114,6 +114,13 @@
     </td>
     <td valign="top" width="33%">
 
+#### Game Development
+<p align="center">
+<img height="40" src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+<img height="40" src="https://skillicons.dev/icons?i=unreal" alt="Unreal" />
+</p>
+    </td>    
+
 </tr>
 </table>
 </p>
