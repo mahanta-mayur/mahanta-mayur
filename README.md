@@ -41,17 +41,36 @@
 <h2 align="left">💻 | Skills | Technology | Tools | 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,scala,visualstudio,vite" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,anaconda,sklearn" /><br>
-    <img src="https://skillicons.dev/icons?i=github,kafka,netlify,docker,discord,dynamodb,eclipse,maven,regex" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=c,java,react,r,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode,vue" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,git,vite,postgres,angular,pytorch,powershell" /><br>
-    <img src="https://skillicons.dev/icons?i=gitlab,hibernate,linux,netlify,postman,threejs,unity,terraform" />
-      <!-- Custom Skill Badges -->
-  
+
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=python,c,java,r,javascript,scala" />
+
+## Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vue,angular,bootstrap,netlify,hibernate,threejs" />
+
+## Tools & Platforms
+<img src="https://skillicons.dev/icons?i=github,gitlab,git,docker,vite,vscode,eclipse,maven,visualstudio,powershell,terraform,unity,postman,bash,regex,figma" />
+
+## Cloud Services
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+
+## Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres" />
+
+## Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch" />
+
+## Messaging & Streaming
+<img src="https://skillicons.dev/icons?i=kafka" />
+
+## Operating Systems
+<img src="https://skillicons.dev/icons?i=linux" />
+
+## Web Technologies
+<img src="https://skillicons.dev/icons?i=html,css" />
+
 </div>
+
 
 <br/>
 <hr/>
