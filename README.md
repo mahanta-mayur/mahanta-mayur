@@ -114,11 +114,6 @@
     </td>
     <td valign="top" width="33%">
 
-#### Data Science & Machine Learning
-<p align="center">
-<img height="40" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-</p>
-    </td>
 </tr>
 </table>
 </p>
