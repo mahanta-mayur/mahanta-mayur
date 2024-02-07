@@ -45,14 +45,14 @@
 <tr>
     <td valign="top" width="33%">
 
-####Programming Languages
+#### Programming Languages
 <p align="center">
-<img height="60" src="https://skillicons.dev/icons?i=python" alt="Python" />
-<img height="60" src="https://skillicons.dev/icons?i=c" alt="C" />
-<img height="60" src="https://skillicons.dev/icons?i=java" alt="Java" />
-<img height="60" src="https://skillicons.dev/icons?i=r" alt="R" />
-<img height="60" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-<img height="60" src="https://skillicons.dev/icons?i=scala" alt="Scala" />
+<img height="40" src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img height="40" src="https://skillicons.dev/icons?i=c" alt="C" />
+<img height="40" src="https://skillicons.dev/icons?i=java" alt="Java" />
+<img height="40" src="https://skillicons.dev/icons?i=r" alt="R" />
+<img height="40" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+<img height="40" src="https://skillicons.dev/icons?i=scala" alt="Scala" />
 </p>
     </td>
     <td valign="top" width="33%">
