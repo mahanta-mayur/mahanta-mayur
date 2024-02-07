@@ -40,36 +40,88 @@
  
 <h2 align="left">💻 | Skills | Technology | Tools | 💻</h2>
 <br/>
-<div align="center">
+<p align="center">
+<table>
+<tr>
+    <td valign="top" width="33%">
 
-## Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,java,r,javascript,scala" />
+#### Programming Languages
+<p align="center">
+<img height="40" src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img height="40" src="https://skillicons.dev/icons?i=c" alt="C" />
+<img height="40" src="https://skillicons.dev/icons?i=java" alt="Java" />
+<img height="40" src="https://skillicons.dev/icons?i=r" alt="R" />
+<img height="40" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+<img height="40" src="https://skillicons.dev/icons?i=scala" alt="Scala" />
+</p>
+    </td>
+    <td valign="top" width="33%">
 
-## Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vue,angular,bootstrap,netlify,hibernate,threejs" />
+#### Frameworks & Libraries
+<p align="center">
+<img height="40" src="https://skillicons.dev/icons?i=react" alt="React" />
+<img height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+<img height="40" src="https://skillicons.dev/icons?i=express" alt="Express" />
+<img height="40" src="https://skillicons.dev/icons?i=vue" alt="Vue" />
+<img height="40" src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+<img height="40" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+<img height="40" src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
+<img height="40" src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" />
+<img height="40" src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
+</p>
+    </td>
+    <td valign="top" width="33%">
 
-## Tools & Platforms
-<img src="https://skillicons.dev/icons?i=github,gitlab,git,docker,vite,vscode,eclipse,maven,visualstudio,powershell,terraform,unity,postman,bash,regex,figma" />
+#### Cloud Services & Platforms
+<p align="center">
+<img height="40" src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+<img height="40" src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+<img height="40" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+<img height="40" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+<img height="40" src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
+<img height="40" src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />
+</p>
+    </td>
+</tr>
+<tr>
+    <td valign="top" width="33%">
 
-## Cloud Services
-<img src="https://skillicons.dev/icons?i=aws,azure" />
+#### Databases
+<p align="center">
+<img height="40" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+<img height="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+<img height="40" src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" />
+<img height="40" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+</p>
+    </td>
+    <td valign="top" width="33%">
 
-## Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres" />
+#### Tools & Other Technologies
+<p align="center">
+<img height="40" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+<img height="40" src="https://skillicons.dev/icons?i=git" alt="Git" />
+<img height="40" src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+<img height="40" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+<img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+<img height="40" src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
+<img height="40" src="https://skillicons.dev/icons?i=maven" alt="Maven" />
+<img height="40" src="https://skillicons.dev/icons?i=cypress" alt="Cypress" />
+<img height="40" src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
+<img height="40" src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
+<img height="40" src="https://skillicons.dev/icons?i=kafka" alt="Kafka" />
+<img height="40" src="https://skillicons.dev/icons?i=regex" alt="Regex" />
+</p>
+    </td>
+    <td valign="top" width="33%">
 
-## Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch" />
-
-## Messaging & Streaming
-<img src="https://skillicons.dev/icons?i=kafka" />
-
-## Operating Systems
-<img src="https://skillicons.dev/icons?i=linux" />
-
-## Web Technologies
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-</div>
+#### Data Science & Machine Learning
+<p align="center">
+<img height="40" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+</p>
+    </td>
+</tr>
+</table>
+</p>
 
 
 <br/>
