@@ -105,7 +105,6 @@
 <img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
 <img height="40" src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
 <img height="40" src="https://skillicons.dev/icons?i=maven" alt="Maven" />
-<img height="40" src="https://skillicons.dev/icons?i=cypress" alt="Cypress" />
 <img height="40" src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
 <img height="40" src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
 <img height="40" src="https://skillicons.dev/icons?i=kafka" alt="Kafka" />
