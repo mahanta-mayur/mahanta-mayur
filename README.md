@@ -45,7 +45,7 @@
 <tr>
     <td valign="top" width="33%">
 
-#### Programming Languages
+####       Programming Languages
 <p align="center">
 <img height="40" src="https://skillicons.dev/icons?i=python" alt="Python" />
 <img height="40" src="https://skillicons.dev/icons?i=c" alt="C" />
