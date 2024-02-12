@@ -7,13 +7,6 @@
 </p>
 <br>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?
-    font=Zeyada&size=38&center=true&vCenter=true&duration=1400&pause=1000&color=9651CD&background=FFFFFF00&width=435&lines=Hi!;Hola!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
-  </a>
-</p>
-
 <h2 align="center">
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px"> I'm Mayur Mahanta!
 </h2>
