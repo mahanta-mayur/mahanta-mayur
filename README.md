@@ -31,7 +31,7 @@
  
  </div>
  <hr/>
- 
+
 <h2 align="left">💻 | Skills | Technology | Tools | 💻</h2>
 <br/>
 <p align="center">
