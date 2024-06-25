@@ -11,15 +11,15 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px"> I'm Mayur Mahanta!
 </h2>
 
-<h3 align="center">Full Stack Data Engineer and Software Enthusiast from United States 🇺🇸</h3>
+<h3 align="center">Full Stack Data Engineer and Software Enthusiast 🇺🇸</h3>
 
 <br/>
 
 <div align="left">
  
- 🎒 I’m currently finishing my **Masters** in Data Engineering at Northeastern University, Boston 🇺🇸
+ 🎒 I’ve recently graduated with a **Masters** in Data Engineering from Northeastern University, Boston 🇺🇸
 
- 🔭 Graduating in May 2024, I am open to Full Time roles in the US in **Data Enginnering, Science & Analytics**
+ 🔭 Currently looking for Full Time roles in the US in **Data Enginnering, Science & Analytics**
  
  💼 I finished my Spring Co-op as a Data Engineer at [@Abiomed, US](https://www.abiomed.com/) 🇺🇸, working primarily with Data Warehouses and creating ETL pipelines along with Front-end development & Automation Testing for a Virtual Voice-based Assistant (ABI) and Medical Insights Application (AXM). Prior to my studies at Northeastern, I worked as a Full Stack Software Developer and Data Engineer at [@Ericsson, India](https://www.ericsson.com/en) 🇮🇳, where I was mainly involved in the development of an Low Code Program Application targetting the Beginner coders customer base helping them turn their ideas into reality with minimal infrastructure with the help of our curated boilerplate suggestions available in multiple environments
 
