@@ -51,7 +51,7 @@
     </td>
     <td valign="top" width="33%">
 
-#### Frameworks & Libraries
+#### Frameworks & Libraries 
 <p align="center">
 <img height="40" src="https://skillicons.dev/icons?i=react" alt="React" />
 <img height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
